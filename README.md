@@ -4,10 +4,10 @@
 
 ## ✌️ I'm a Python Dev!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything!
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and read books
+- ⚡ Fun Fact: I like playing guitar and reading books
 - ☄️ [Portfolio](https://github.com/amitgirwal/)
  
 
