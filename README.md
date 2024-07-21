@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Amit Girwal
+### 👋 Hey, I'm Amit Girwal
 
 
 
-## ✌️ I'm a Python Dev!!
+## ✌️ I'm a Software Engineering!!
 
 - 🌱 I’m currently learning everything!
 - 🤝 I’m looking to collaborate with other content creators
